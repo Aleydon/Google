@@ -29,3 +29,7 @@
 #social-bar {
 	text-align: right;
 }
+
+button {
+	cursor: pointer;
+}
